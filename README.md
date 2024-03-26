@@ -13,7 +13,7 @@ Overall, the project highlights the effectiveness of BERT for humour detection t
 
 The experiment can be reproduced.
 
-The repository contains the dataset in a CSV file, a folder with 2 codes for BERT fine-tuning, and the model application. Please make sure to download the model application before using it. The model is hosted here: https://huggingface.co/GeniaV/BERT_Humor_35k/tree/main.
+The repository contains the dataset in a CSV file, a folder with 2 codes for BERT fine-tuning, and the model application. Please make sure to download the model before using it. The model is hosted here: https://huggingface.co/GeniaV/BERT_Humor_35k/tree/main.
 
 ##### Dependencies:
 
