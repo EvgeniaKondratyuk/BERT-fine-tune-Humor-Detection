@@ -17,5 +17,5 @@ The repository contains the dataset in a CSV file, a folder with 2 codes for BER
 
 ##### Dependencies:
 
-- python 3.6
+- python 3.7
 - transformers package
