@@ -11,7 +11,7 @@ The model's prediction accuracy score is 0.82 for the validation and 0.82 for th
 Results show that increasing the number of samples improves accuracy up to a point, with smaller batch sizes outperforming larger ones. The project concludes that the model achieves a balance between underfitting and overfitting. However, limitations include hardware constraints and time-consuming fine-tuning processes. 
 Overall, the project highlights the effectiveness of BERT for humour detection tasks while emphasizing the importance of training data size and batch size in model performance.
 
-The experiment can be reproduced.
+The experiment can be reproduced. The results may vary. 
 
 The repository contains the dataset in a CSV file, a folder with 2 codes for BERT fine-tuning, and the model application. Please make sure to download the model before using it. The model is hosted here: https://huggingface.co/GeniaV/BERT_Humor_35k/tree/main.
 
